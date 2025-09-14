@@ -17,8 +17,6 @@ metrics:
 ## Hugging Face Repo:
 ➡️ https://huggingface.co/JesseHuang922/lv_roberta_base/tree/main
 
-The GitHub repository contains the complete training pipeline, including all scripts and Jupyter notebooks documenting the whole training process.
-
 ---
 
 ## Overview
