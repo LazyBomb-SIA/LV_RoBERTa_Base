@@ -33,7 +33,7 @@ It includes the following components:
 - **Lemmatizer**
 - (Note: Transformer component internally uses a `tok2vec` listener)
 
-**Model type:** Transformer pipeline (XLM-RoBERTa-large backbone)  
+**Model type:** Transformer pipeline (XLM-RoBERTa-base backbone)  
 **Language:** Latvian (lv)  
 **Recommended hardware:** CPU for small-scale use, GPU recommended for faster training  
 
