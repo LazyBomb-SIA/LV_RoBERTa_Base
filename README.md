@@ -31,6 +31,9 @@ This is a **spaCy transformer-based pipeline for Latvian**, built with the **XLM
 | Stanza       | 0.9688 | 0.8987 | 0.9449 | 0.8791 | 0.8354 | 0.9539    | 91.35% |
 | UDPipe       | 0.9207 | 0.7960 | 0.3403 | 0.0791 | 0.0660 | 0.8911    | 51.55% |
 
+Details please check cell 12 and 13 here: 
+
+https://github.com/LazyBomb-SIA/LV_RoBERTa_Base/blob/main/lv_roberta_base.ipynb
 
 It includes the following components:  
 
