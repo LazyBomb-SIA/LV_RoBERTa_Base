@@ -23,7 +23,7 @@ https://huggingface.co/JesseHuang922/lv_roberta_base
 
 This is a **spaCy transformer-based pipeline for Latvian**, built with the **XLM-RoBERTa-base backbone**.  
 
-**Performance comparison**
+**Performance Comparison**
 
 | Model        | POS    | Tag    | Morph  | UAS    | LAS    | Lemma Acc | Summary (equal weights)   |
 | ------------ | ------ | ------ | ------ | ------ | ------ | --------- | ------ |
